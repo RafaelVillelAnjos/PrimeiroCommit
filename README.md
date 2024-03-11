@@ -1,2 +1,2 @@
-# <align = "center" 💻 Pesquisa GIT 💻>   
+# : 💻 Pesquisa GIT 💻 : 
 
