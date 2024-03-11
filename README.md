@@ -1,2 +1,2 @@
-#H1 💻 Pesquisa GIT 💻
+#<H1 align = "center" 💻 Pesquisa GIT 💻>
 Primeiro commit
