@@ -1,1 +1,1 @@
-<H2 align=center> 💻 Pesquisa GIT 💻 
+<H1 align=center> 💻 Pesquisa GIT 💻 
