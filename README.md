@@ -1,2 +1,2 @@
-<H1 align = "center" 💻Pesquisa GIT💻 >
+<H1 💻 Pesquisa GIT 💻 >
 
